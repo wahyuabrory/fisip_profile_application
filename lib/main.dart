@@ -3,6 +3,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'package:profile_faculty_application/fakultas_detail.dart';
 import 'package:profile_faculty_application/penulis_detail.dart';
 import 'package:profile_faculty_application/fakultas.dart';
+import 'package:profile_faculty_application/penulis.dart';
 
 void main() {
   runApp(const FacultyProfile());
